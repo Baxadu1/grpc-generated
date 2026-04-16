@@ -158,7 +158,7 @@ const file_payment_payment_proto_rawDesc = "" +
 	"\n" +
 	"created_at\x18\x03 \x01(\v2\x1a.google.protobuf.TimestampR\tcreatedAt2U\n" +
 	"\x0ePaymentService\x12C\n" +
-	"\x0eProcessPayment\x12\x17.payment.PaymentRequest\x1a\x18.payment.PaymentResponseBEZCgithub.com/твой-юзернейм/grpc-generated/payment;paymentb\x06proto3"
+	"\x0eProcessPayment\x12\x17.payment.PaymentRequest\x1a\x18.payment.PaymentResponseB3Z1github.com/Baxadu1/grpc-generated/payment;paymentb\x06proto3"
 
 var (
 	file_payment_payment_proto_rawDescOnce sync.Once
